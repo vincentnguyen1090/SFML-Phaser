@@ -1,0 +1,3 @@
+C:/Users/vince/CLionProjects/Phaser/cmake-build-debug/CMakeFiles/Phaser.dir
+C:/Users/vince/CLionProjects/Phaser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vince/CLionProjects/Phaser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
